@@ -1,0 +1,109 @@
+.appmain{
+	background:red;
+	width:300px;
+	height:100%;
+
+}
+
+.headingContainer{
+	margin:20px;
+	width:100%;
+}
+.childContainer{
+		margin:2px;
+		width:17%;
+		display:inline-block;
+		border: 1px solid;
+	    background-color: lightblue;
+	    cursor: pointer;
+	    border-color: beige;
+	}
+
+.sponsored{
+	font-size:2rem;
+	font-weight: bolder
+
+
+}
+
+.main_container{
+	height: 500px;
+    border: 1px solid;
+    width: 50%;
+    overflow: hidden;
+    overflow-y: auto;
+    background: azure;
+    float: right;
+}
+
+.childContainerDisplay{
+	margin:10px;
+	width:30%;
+	display:inline-block;
+
+}
+
+.main_heading{
+	text-align: center;
+}
+
+.searchComponent{
+	float:left;
+	width:45%;
+}
+
+.instruction_select_dates{
+	font-size: 1.2 rem;
+	font-weight: bolder;
+	text-transform: capitalize;
+	margin-top:10px;
+	max-height: 200px;
+	overflow-y: auto;
+}
+@media only screen and (max-width: 600px) {
+	.childContainer{
+		margin:5px;
+		width:25%;
+		display:inline-block;
+		font-size: 0.4rem;
+	    border: 1px solid;
+	    background-color: lightblue;
+	    cursor: pointer;
+		/*background: yellow*/
+	}
+
+	.childContainerDisplay{
+		margin:5px;
+		width:30%;
+		display:inline-block;
+		font-size: 0.4rem;
+	    /*border: 1px solid;*/
+	    /*background-color: lightblue;*/
+		/*background: yellow*/
+
+
+}
+
+    .main_container{
+		height: 500px;
+	    border: 1px solid;
+	    width: 100%;
+	    overflow: hidden;
+	    overflow-y: auto;
+	    background: azure;
+	    float: none;
+	    font-size:0.75rem;
+	    overflow-x: auto
+  }
+  .main_heading{
+		text-align: center;
+		font-size:1rem;
+  }
+  .searchComponent{
+	float:left;
+	width:100%;
+}
+}
+
+
+

@@ -1,0 +1,64 @@
+{
+  "update_date": "6-june-2018",
+  "cut-off": {
+    "189": {
+      "date": "31/05/2018  6:49 PM",
+      "points": "75"
+    },
+    "489": {
+      "date": "31/05/2018  6:49 PM",
+      "points": "75"
+    }
+  },
+  "summary": {
+    "Mar": "600",
+    "Feb": "600",
+    "Aug": "2000",
+    "Sep": "3500",
+    "Apr": "600",
+    "June": "​300",
+    "Jul": "2000 ",
+    "Jan": "600",
+    "May": "600",
+    "Nov": "1400",
+    "Dec": "600",
+    "Oct": "2500",
+    "Total": "15300"
+  },
+  "489": "5",
+  "occupation-cut-off": {
+    "Electronics Engineer": {
+      "date": "30/05/2018  3:56 PM",
+      "points": "75"
+    },
+    "Computer Network Professionals": {
+      "date": "24/04/2018  7:18 PM",
+      "points": "75"
+    },
+    "Other Engineering Professionals": {
+      "date": "11/04/2018  11:51 PM",
+      "points": "75"
+    },
+    "Industrial, Mechanical and Production Engineers": {
+      "date": "30/05/2018  12:12 PM",
+      "points": "75"
+    },
+    "Accountants": {
+      "date": "31/01/2018  10:18 PM",
+      "points": "80"
+    },
+    "Auditors, Company Secretaries and Corporate Treasurers": {
+      "date": "13/02/2018  4:10 PM",
+      "points": "80"
+    },
+    "Software and Applications Programmers": {
+      "date": "28/03/2018  7:04 PM",
+      "points": "75"
+    },
+    "ICT Business and System Analysts": {
+      "date": "20/02/2018  6:18 PM",
+      "points": "75"
+    }
+  },
+  "189": "300"
+}

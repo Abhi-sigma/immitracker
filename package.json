@@ -1,0 +1,36 @@
+{
+  "name": "immireact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "chart.js": "^1.1.1",
+    "chartjs": "^0.3.24",
+    "html-webpack-plugin": "^3.2.0",
+    "moment": "^2.22.2",
+    "react": "^16.4.1",
+    "react-chartjs": "^1.2.0",
+    "react-dom": "^16.4.1",
+    "webpack-cli": "^3.0.8",
+    "wepack": "0.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.12.1",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
